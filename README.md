@@ -11,6 +11,6 @@ Welcome to the repo "Building an Innovative Investment App from Scratch"! In thi
 
 ## Design
 
-| Initial Phase                                                      | Final Phase                                                             |
-|--------------------------------------------------------------------|-------------------------------------------------------------------------|
-| ![Splash Screen](./assets/github/splashScreen.png "Splash Screen") | ![Splash Screen](./assets/github/authLanding.png "Auth Landing Screen") |
+| Splash Screen                                                      | Auth Landing Phase                                                      | Sign Up Screen                                                  |
+|--------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------|
+| ![Splash Screen](./assets/github/splashScreen.png "Splash Screen") | ![Splash Screen](./assets/github/authLanding.png "Auth Landing Screen") | ![Sign Up Screen](./assets/github/sign_up.png "Sign Up Screen") |
