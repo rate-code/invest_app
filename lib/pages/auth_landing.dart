@@ -59,9 +59,7 @@ class _AuthLandingScreenState extends State<AuthLandingScreen> {
                     Column(
                       children: [
                         InkWell(
-                          onTap: () {
-                            // we will build further screens in next videos...
-                          },
+                          onTap: () {},
                           child: Container(
                             height: 60,
                             width: 100.w,
@@ -103,12 +101,3 @@ class _AuthLandingScreenState extends State<AuthLandingScreen> {
     );
   }
 }
-
-// You will find the github link for this project in description..
-
-
-/*
-    THANK YOU.
-    LIKE, SHARE AND SUBSCRIBE.
-    GET TUNED FOR MORE UIS REGULARLY.
- */

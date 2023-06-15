@@ -15,4 +15,4 @@ Throughout this episode, we provide clear explanations, practical examples, and 
 * Youtube Tutorial: https://youtu.be/VOuMy3RVb5g
 
 ## Output
-![Splash Screen](./splashScreen.png "Splash Screen")
+![Splash Screen](./assets/github/splashScreen.png "Splash Screen")
