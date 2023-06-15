@@ -15,4 +15,10 @@ Throughout this episode, we provide clear explanations, practical examples, and 
 * Youtube Tutorial: https://youtu.be/VOuMy3RVb5g
 
 ## Output
-![Splash Screen](./assets/github/splashScreen.png "Splash Screen")
+
+
+## Design
+
+| Initial Phase                                                      | Final Phase                                                             |
+|--------------------------------------------------------------------|-------------------------------------------------------------------------|
+| ![Splash Screen](./assets/github/splashScreen.png "Splash Screen") | ![Splash Screen](./assets/github/authLanding.png "Auth Landing Screen") |
