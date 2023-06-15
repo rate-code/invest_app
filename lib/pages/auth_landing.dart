@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:invest_app/pages/sign_up.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
 class AuthLandingScreen extends StatefulWidget {
@@ -59,7 +60,13 @@ class _AuthLandingScreenState extends State<AuthLandingScreen> {
                     Column(
                       children: [
                         InkWell(
-                          onTap: () {},
+                          onTap: () {
+                            // Let's navigate this to new sign up page..
+                            Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                    builder: (context) => const SignUp()));
+                          },
                           child: Container(
                             height: 60,
                             width: 100.w,
